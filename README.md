@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have developed this blog project using React JS and also i have implemented live forecast API in each page.
 
 ## Available Scripts
 
